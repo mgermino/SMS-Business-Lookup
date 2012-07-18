@@ -47,7 +47,7 @@ while x > 0:
         return msgitems
         
     voice = Voice()
-    voice.login('michael.germino@gmail.com', 'Mkcgrose911')
+    voice.login('Enter email here', 'Enter password here')
 
     voice.sms()
     for msg in extractsms(voice.sms.html):
