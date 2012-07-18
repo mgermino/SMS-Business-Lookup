@@ -3,8 +3,7 @@ SMS Business lookup
 
 This is an SMS business lookup bot.
 
-It currently uses google's places API, along with the maps API to get the location based on the zip code
-submitted.
+It currently uses google's places API, along with the maps API to get the location based on the zip code submitted.
 
 -Run businesssearch.py with correct google voice information.
 
