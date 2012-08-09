@@ -4,7 +4,7 @@ import time
 # The request also includes the userip parameter which provides the end
 # user's IP address. Doing so will help distinguish this legitimate
 # server-side traffic from traffic which doesn't come from an end-user.
-API_key = 'AIzaSyB8AgPKlO0PURl7ScWmxI9A8V8DsVJIcF4'
+API_key = ''
 
 #finds the business using google's places API and returns the data to main
 def find_business(name, location):
